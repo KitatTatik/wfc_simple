@@ -8,7 +8,7 @@ typedef enum {
     TRUE = 1
 } Bool;
 
-#define DICT_SIZE 8192
+#define DICT_SIZE 512
 #define MAX_WORD_SIZE 150
 
 typedef struct { 
